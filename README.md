@@ -2,7 +2,10 @@
 
 This is the source code and data for a clustering workshop for MedTech.
 
-This will need you to have installed python, and a few other packages.
+This will need you to have installed python, and a few packages.
+
+Please install python by visiting this page and following the install instructions:
+https://www.python.org/downloads/
 
 Once python is installed, type the following into your command line:
 
