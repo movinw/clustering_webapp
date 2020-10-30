@@ -7,7 +7,7 @@ This will need you to have installed python, and a few packages.
 Please install python by visiting this page and following the install instructions:
 https://www.python.org/downloads/
 
-Once python is installed, type the following into your command line:
+Once python is installed, copy/paste or type the following into your command line:
 
 ```pip install streamlit pandas matplotlib seaborn scikit-learn```
 
