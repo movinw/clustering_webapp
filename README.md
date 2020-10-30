@@ -1,6 +1,8 @@
-# Clustering WebApp
+# Machine Learning Clustering WebApp
 
 This is the source code and data for a clustering workshop for MedTech.
+
+We will be using KMeans clustering algorithm. To find out more about it, watch [this video](https://www.youtube.com/watch?v=4b5d3muPQmA).
 
 This will need you to have installed python, and a few packages.
 
