@@ -16,3 +16,5 @@ Once python is installed, copy/paste or type the following into your command lin
 This will install all the packages needed.
 
 Download the completed code and data, making sure to put them into the same folder.
+
+We will be using a text editor, so no particular software is needed. Notepad will work, but I prefer to use [Sublime](https://www.sublimetext.com/) as it highlights syntax well. I highly recommend using it.
