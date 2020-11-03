@@ -6,7 +6,7 @@ We will be using KMeans clustering algorithm. To find out more about it, watch [
 
 This will need you to have installed python, and a few packages.
 
-Please install python by visiting this page and following the install instructions:
+Please install ***python 3, not using 2,*** by visiting this page and following the install instructions:
 https://www.python.org/downloads/
 
 Once python is installed, copy/paste or type the following into your command line:
